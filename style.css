@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+p {
+  serif;
+  color:white;
+  background-color: black;
+  border: 5px solid: white;
+  padding: 25px;
+  width: 470px;
+  }
+  h1 {
+    color: red;
+  }
+  h2 {
+    color: blue;
+  }
